@@ -11,13 +11,7 @@ function Event() {
             <span className="text-pink-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+          Welcome to EVENTX, the ultimate event management app designed to simplify and enhance your event planning experience. Whether you’re organizing a corporate conference, a wedding, a birthday party, or any special occasion,  EVENTX provides you with all the tools you need to create unforgettable events effortlessly. With our intuitive interface, real-time collaboration, and comprehensive planning features, managing every detail of your event has never been easier. Join the  EVENTX community today and make your next event a seamless success!
           </p>
         </div>
         <div className="mt-12 grid grid-cols-1 md:grid-cols-4">
